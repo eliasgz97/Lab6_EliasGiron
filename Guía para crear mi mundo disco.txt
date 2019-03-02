@@ -1,0 +1,24 @@
+El sistema consiste en las siguientes opciones:
+  *Archivo
+  *Tortuga
+	-Archivo contiene el siguiente menú: Abrir archivo de extensión .txt
+	-Administrar contiene los siguientes menús: Ingresar. Ingresar al sistema con el usuario y contraseña
+	  correcta habilita las demás opciones, sin ingresar al sistema, no podrá realizar las demás operaciones.
+	  Tambien contiene un submenú tortuga. Dentro de este submenú se encuentran los otros submenús
+	  Agregar mundo, agregar criatura, modificar mundo, modificar criatura y eliminar las mismas.
+	  En agregar mundo, están todos los atributos que tiene un mundo. Que es nombre, y una lista de criaturas.
+	  Cada botón está programado para desplegar ventanas para agregar los respectivos datos.
+	  	*Cada dato que se guarda, ya sea un mundo con la tortuga, se almacena en listas y previamente en archivos. De los 
+		 archivos, se puede obtener la informacion para luego modificar la misma mediante la opcion modificar.
+		*Cada archivo guardado, con extensión .txt, se puede abrir de tal forma que se desplega un menú al momento de apretar 
+		 la opción abrir archivo. Este archivo luego se muestra en un texto con los datos ya almacenados previamente. 
+		*El sistema contiene ÚNICAMENTE un usuario y una contraseña, por tanto solo el propietario de este usuario y contraseña
+		 podrá acceder al sistema. 
+		*Cada criatura se va almacenando en un contenedor localizado en la opción modificar. Esto significa que al crear una criatura,
+		 esta se almacena en un contenedor, que al momento de seleccionar un apartado del mismo, inmediatamente se escriben todos los datos
+		 de esa criatura, de tal forma que usted puede modificar cada uno de esos textos ya cargados. Esto es solamente para que usted pueda 
+		 recordar los datos que almacenó de esa criatura.
+Asegúrese de seguir cada al pie de la letra esta guía, de tal forma que al momento de ejecutar el programa, contestará todas las dudas que posiblemente 
+nazcan a raíz de manipularlo. 
+
+*Para más información, abóquese con el programador que realizó el sistema mediante github con los usuario: eliasgz
